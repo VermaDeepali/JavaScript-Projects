@@ -42,5 +42,10 @@
 
 
 
+## 9. Video : In this you'll able to play and pause the video by using the button displayed on the screen.
+![video](https://user-images.githubusercontent.com/41052882/101243524-ff831e00-3726-11eb-9b1a-027fbc98e724.PNG)
+
+
+
 #### Stay Tuned for more crazy JS Projects :P
 
