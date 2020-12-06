@@ -47,5 +47,11 @@
 
 
 
+## 10. Scroll website : In this you can scroll the site or just click on the particular section from navbar to land on that section directly.
+![Scroll](https://user-images.githubusercontent.com/41052882/101279713-176fa600-37ea-11eb-9650-96129f4b0194.PNG)
+
+
+
+
 #### Stay Tuned for more crazy JS Projects :P
 
