@@ -52,6 +52,11 @@
 
 
 
+## 11. About-Tabs : In this you can click on the preferred buttons and it'' give you information accordingly.
+![About-Tab](https://user-images.githubusercontent.com/41052882/101281064-142ce800-37f3-11eb-93a9-4c9c383d097d.PNG)
+
+
+
 
 #### Stay Tuned for more crazy JS Projects :P
 
