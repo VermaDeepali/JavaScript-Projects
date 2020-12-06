@@ -47,12 +47,12 @@
 
 
 
-## 10. Scroll website : In this you can scroll the site or just click on the particular section from navbar to land on that section directly.
+## 10. Scroll website : In this you can scroll the site or just click on the particular section from navbar to land on that section directly :)
 ![Scroll](https://user-images.githubusercontent.com/41052882/101279713-176fa600-37ea-11eb-9650-96129f4b0194.PNG)
 
 
 
-## 11. About-Tabs : In this you can click on the preferred buttons and it'' give you information accordingly.
+## 11. About-Tabs : In this you can click on the preferred buttons and it'' give you information accordingly ;)
 ![About-Tab](https://user-images.githubusercontent.com/41052882/101281064-142ce800-37f3-11eb-93a9-4c9c383d097d.PNG)
 
 
