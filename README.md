@@ -58,8 +58,14 @@
 
 
 
-## 12. Countdown Timer : In this you can sell a product by applying a timer to it.
+## 12. Countdown Timer : In this you can sell a product by applying a timer to it :)
 ![Countdown timer](https://user-images.githubusercontent.com/41052882/101359110-d5199800-38c1-11eb-8978-4e1e12874489.PNG)
+
+
+
+## 13. Lorem-Ipsum : In this you can generate random paragraphs as your requirement ;)
+![lorem-ipsum](https://user-images.githubusercontent.com/41052882/101365558-f7afaf00-38c9-11eb-8853-7fd9a2fc3c6c.PNG)
+
 
 
 
