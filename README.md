@@ -58,5 +58,10 @@
 
 
 
+## 12. Countdown Timer : In this you can sell a product by applying a timer to it.
+![Countdown timer](https://user-images.githubusercontent.com/41052882/101359110-d5199800-38c1-11eb-8978-4e1e12874489.PNG)
+
+
+
 #### Stay Tuned for more crazy JS Projects :P
 
