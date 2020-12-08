@@ -73,5 +73,10 @@
 
 
 
+## 15. Slider : In this you can easily go from one slide to next by just clciking on next and prev button.
+![slider](https://user-images.githubusercontent.com/41052882/101492343-d06ce680-398a-11eb-8a6d-430e68bb20a9.PNG)
+
+
+
 #### Stay Tuned for more crazy JS Projects :P
 
