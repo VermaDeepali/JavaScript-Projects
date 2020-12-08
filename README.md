@@ -68,6 +68,10 @@
 
 
 
+## 14. Grocery List : In this project you can add edit aur delete items and all the items that are added will be stored in your local storage.
+![grocery-list](https://user-images.githubusercontent.com/41052882/101487300-f9d64400-3983-11eb-8db2-da88a8e6fa40.PNG)
+
+
 
 #### Stay Tuned for more crazy JS Projects :P
 
