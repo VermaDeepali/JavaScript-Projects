@@ -78,5 +78,11 @@
 
 
 
+
+## 16. Clock : In this you will get the live DATE and TIME of a region ;)
+![clock](https://user-images.githubusercontent.com/41052882/103154705-2cbf6b00-47bf-11eb-9513-7c72b4c064ba.PNG)
+
+
+
 #### Stay Tuned for more crazy JS Projects :P
 
